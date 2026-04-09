@@ -1,12 +1,13 @@
 # Workforce Overview & Attrition Analysis (Power BI)
 
 ## Project Overview
-Developed an interactive HR analytics dashboard to analyze employee attrition, workforce trends, and key HR KPIs.
+Developed an interactive HR analytics dashboard to analyze employee attrition, workforce trends, and key HR KPIs. The dashboard helps stakeholders monitor workforce metrics and identify high-risk attrition areas for better decision-making.
 
 ## Objectives
-- Analyze attrition rate across departments and job roles
-- Identify high-risk employee segments
-- Provide actionable insights for retention strategies
+- Analyze employee attrition across departments, job roles, and tenure
+- Identify key factors contributing to employee turnover
+- Enable HR teams to track workforce KPIs effectively
+- Support data-driven decision-making for employee retention
 
 ## Tools Used
 - Power BI
@@ -14,9 +15,10 @@ Developed an interactive HR analytics dashboard to analyze employee attrition, w
 - Power Query
 
 ##  Key Insights
-- 40% higher attrition among employees with 0–2 years tenure
-- Higher churn observed in employees working overtime
-- Certain departments showed consistently higher attrition trends
+- Attrition is significantly higher among employees with 0–2 years tenure
+- Employees working overtime show higher attrition rates
+- Certain job roles and departments contribute more to overall attrition
+- Job satisfaction levels have a noticeable impact on employee retention
 
 ## 📷 Dashboard Preview
 
@@ -37,9 +39,16 @@ Demonstrates interactive filtering of data by gender and department for deeper i
 ![Filters Interaction](Filter_Interaction.png)
 
 ##  Business Impact
-Enabled HR teams to monitor workforce metrics and take data-driven decisions to improve retention.
+- Enabled HR teams to identify high-risk attrition segments
+- Improved visibility of workforce KPIs through interactive dashboards
+- Supported data-driven strategies for employee retention
+- Reduced manual reporting efforts through automation
 
-##  Files Included
-- Power BI Dashboard (.pbix)
-- Dataset (if available)
+##  Project Files 
+- Power BI Dashboard
+- Dataset 
 - Screenshots
+
+##  Author
+Ashwin Deshpande
+Data Analyst
