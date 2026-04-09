@@ -19,14 +19,21 @@ Developed an interactive HR analytics dashboard to analyze employee attrition, w
 - Certain departments showed consistently higher attrition trends
 
 ##  Dashboard Preview
+### 🔹 Dashboard Overview
+Provides a complete view of workforce metrics, KPIs, and attrition trends. 
+(Dashboard_Overview.png)
 
-![Dashboard Overview](Dashboard_Overview.png)
+### 🔹 KPI Metrics
+Displays key workforce KPIs such as employee count, attrition rate, and average tenure.
+(KPI_Cards.png)
 
-![KPI Cards](KPI_Cards.png)
+### 🔹 Attrition Analysis
+Breakdown of attrition by department, tenure, job roles, overtime, and satisfaction levels.
+(Attrition_Analysis.png)
 
-![Attrition Analysis](Attrition_Analysis.png)
-
-![Filters Interaction](Filter_Interaction.png)
+### 🔹 Filters & Interactivity
+Demonstrates interactive filtering of data by gender and department for deeper insights.
+(Filter_Interaction.png)
 
 ##  Business Impact
 Enabled HR teams to monitor workforce metrics and take data-driven decisions to improve retention.
